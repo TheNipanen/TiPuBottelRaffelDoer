@@ -95,3 +95,6 @@ Seminar/cs-e4000-template/*.pdf
 
 ### .vscode ###
 */.vscode/
+
+### node_modules ###
+*/node_modules/
